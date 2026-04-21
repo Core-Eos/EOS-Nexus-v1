@@ -22,7 +22,7 @@ To ensure absolute integrity and eliminate any possibility of data contamination
 
 **The Process:** EOS received the original English GSM8K questions and translated them internally into German before executing the logical reasoning and calculation.
 
-**The Result:** This proves that EOS is not merely recalling English training patterns but is capable of mapping and solving universal logic across linguistic boundaries. Since no "pre-solved" German GSM8K dataset exists, this 100.0% score verifies pure reasoning. 
+**The Result:** This proves that EOS is not merely recalling English training patterns but is capable of mapping and solving universal logic across linguistic boundaries. Since no "pre-solved" German GSM8K dataset exists, this 99.70% score verifies pure reasoning. 
 
 ## Dynamic Option Shuffling (Anti-Positional Bias)
 
