@@ -33,7 +33,7 @@ To further stress-test the model's intelligence, I utilized a Multiple-Choice Sh
 **Validation:** EOS must calculate the actual numerical result internally and then match it to the correct, non-static option. This eliminates "lucky guessing" and ensures the model isn't relying on positional patterns often found in static benchmarks.
 
 ## Zero-Shot & Step-Logic Integrity
-Unlike traditional evaluations that provide examples to guide the model (Few-Shot), EOS was tested with `--num_fewshot 0`.
+Unlike traditional evaluations that provide examples to guide the model (Few-Shot), EOS was tested with `--num_fewshot 0`
 
 **Complexity Metrics:** The provided logs track the exact number of **Reasoning Steps** taken for each solution.
  
