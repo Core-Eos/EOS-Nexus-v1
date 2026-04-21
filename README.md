@@ -1,4 +1,4 @@
-| EOS: Nexus v1 | GSM8K 99.70% | Local |
+#| EOS: Nexus v1 | GSM8K 99.70% | Local |
 
 EOS is a specialized reasoning system designed to eliminate probabilistic errors in mathematical and logical tasks. This repository contains the official evaluation results for the **GSM8K** benchmark, demonstrating a 100% success rate under strictly controlled local conditions. 
 
