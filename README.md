@@ -65,7 +65,9 @@ The resolution of GSM8K is the baseline. Future updates will include:
 
 ## Verification
 
-The full results are available in the [results.json](./results.json) file. 
+The current results.json only contains the first 200 test cases due to a Benchmark UI export bug. I am currently re-running the full audit for all 1,319 cases. The full file will be uploaded shortly.
+
+[results.json](./results.json) 
 
 This file contains the complete mapping of question IDs, shuffled option selections, reasoning step counts, and timestamps for all 1,319 test cases. I invite the community to audit the consistency of these outputs.
 
