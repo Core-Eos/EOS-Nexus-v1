@@ -71,5 +71,5 @@ This file contains the complete mapping of question IDs, shuffled option selecti
 
 ---
 
-**Reddit:Eos-Core**  
-**X:Eos_core**
+**Reddit: Eos-Core**  
+**X: Eos_core**
