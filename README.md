@@ -71,5 +71,9 @@ The full results.json file, containing the mapping of question IDs, shuffled opt
 
 ---
 
+<img width="3200" height="2364" alt="GSM8K 100" src="https://github.com/user-attachments/assets/96e3ed59-9987-4be3-96fd-b76bf579ed41" />
+
+---
+
 **Reddit: Eos-Core**  
 **X: Eos_core**
