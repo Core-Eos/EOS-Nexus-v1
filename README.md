@@ -58,10 +58,16 @@ To verify that the results are not a product of statistical variance, I implemen
 
 ## Future Roadmap
 The resolution of GSM8K is the baseline. Future updates will include:
+  
+1. **MATH:** High-level symbolic mathematics and calculus.
 
-1. **MMLU:** Massive Multitask Language Understanding (57 subjects).  
-2. **MATH:** High-level symbolic mathematics and calculus.  
-3. **HumanEval:** Precise algorithmic code generation.  
+2. **​DS-1000:** Data Science Code Generation Benchmark (1,000 problems)
+
+3. **HumanEval:** Precise algorithmic code generation.
+
+4.(1) **MMLU:** Massive Multitask Language Understanding (57 subjects). 
+
+(1) : Not on the radar for now.
 
 ## Verification
 
