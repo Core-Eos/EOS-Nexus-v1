@@ -58,8 +58,6 @@ To verify that the results are not a product of statistical variance, I implemen
 
 ## Future Roadmap
 The resolution of GSM8K is the baseline. Future updates will include:
-  
-1. **MATH:** High-level symbolic mathematics and calculus.
 
 1. **​DS-1000:** Data Science Code Generation Benchmark (1,000 problems)
 
