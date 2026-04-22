@@ -69,8 +69,6 @@ The full results.json file, containing the mapping of question IDs, shuffled opt
 
 [results.json](./results.json) 
 
-This file contains the complete mapping of question IDs, shuffled option selections, reasoning step counts, and timestamps for all 1,319 test cases. I invite the community to audit the consistency of these outputs.
-
 ---
 
 **Reddit: Eos-Core**  
